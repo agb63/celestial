@@ -6,7 +6,7 @@ Celeste clone. Project to learn PyGame and code with the kids.
 
 - Create an open-ended project that the kids and I can jam on for a long time
 - Teach the kids about source control
-- Use the github issues system to plan and track work 
+- Use the github issues system to plan and track work
 - Learn PyGame
 - Practice pixel art, sprite and animation creation, music creation
 
