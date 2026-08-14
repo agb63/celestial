@@ -21,6 +21,16 @@ Ideas for big pieces we'll need to address:
   - dialog box UI
   - text effects ("typewriter" reveal, wiggling for emphasis)
   - character portrait art
+  - character talking SFX
+- NPCs
+  - Bird
+  - Old lady
+  - Theo
+  - Badeline
+- Bosses
+  - Badeline chase
+  - Oshiro
+  - Laser Badeline
 - Game menus UI & logic
 - Scripted in-engine cutscenes
 - Scripted live events, e.g., bridge falling out at beginning
@@ -30,17 +40,45 @@ Ideas for big pieces we'll need to address:
   - collision with world and entities
   - dash tracking and physics
   - control state machine and animations
+  - stamina
+  - grab wall
+  - climb wall
+  - stamina depletion flashing
 - Zoom-in effect e.g., while talking to NPCs
-- Particle effects
+- FX
+  - Snow
+  - Dash trails
+  - Progression light door clue
+  - Wall-slide dust
+  - Lighting
+  - Madeline follow spotlight
+  - Compression wave effect
+  - bg birds
+  - Meat/dust trails
 - Save files & restoration
 - Interactible entities
-  - Bouncy clouds, etc
-  - Death spikes, etc
+  - Bouncy clouds
+  - Death spikes
   - Strawberries
   - Crumble platforms
   - Moving / tossing platforms
   - Hearts
   - B-sides
   - "Collect the pieces" strawberry puzzles
-
-
+  - Springboards
+  - Door-open tokens
+  - Flying/sliding meat
+  - Meat static obstacle
+  - Keys
+  - Key doors
+  - Hotel clean-up p-switches
+  - Contact-spawn meat
+  - Weigh-down/spring-back platforms
+- Falling snow blocks
+- One-way platforms
+- Dash restoration jewels
+- Iris in/out
+- Mirrors w/reflections
+- Hotel clean-up animations
+- Hotel clean-up barriers
+- Water
