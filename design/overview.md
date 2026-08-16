@@ -61,7 +61,7 @@ Ideas for big pieces we'll need to address:
   - Death spikes
   - Strawberries
   - Crumble platforms
-  - Moving / tossing platforms
+  - Moving / tossing pieces
   - Hearts
   - B-sides
   - "Collect the pieces" strawberry puzzles
@@ -74,6 +74,12 @@ Ideas for big pieces we'll need to address:
   - Hotel clean-up p-switches
   - Contact-spawn meat
   - Weigh-down/spring-back platforms
+  - Bubble transports
+  - Breakable wall pieces
+  - Moving platforms
+  - Driveable moving pieces
+  - Auto-save points (mountains)
+  - Snow balls
 - Falling snow blocks
 - One-way platforms
 - Dash restoration jewels
@@ -82,3 +88,6 @@ Ideas for big pieces we'll need to address:
 - Hotel clean-up animations
 - Hotel clean-up barriers
 - Water
+- Wind
+- Feather minigame
+- Parallax bg scrolling
